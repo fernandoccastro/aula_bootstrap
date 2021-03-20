@@ -1,0 +1,32 @@
+body{
+    font: 20px Arial;
+}
+.navbar{
+    background-color: cornflowerblue;
+    
+}
+
+.quemsomos{
+    background-color:white;
+    
+    
+}
+.margin{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+}
+.navbar-brand{
+    margin-left: 10px;
+}
+
+.parceiros{
+    background-color: cornflowerblue;
+}
+
+.nav-item{
+    
+}
+    
+
+}
